@@ -1,0 +1,31 @@
+h1{
+	color:red;
+	font-family:Georgia;
+	font-size: 24px;
+	font-weight:bold;
+	font-style: italic;
+	text-align: center;
+}
+p{
+	color:blue;
+	font-size: 17px;
+	font-family: Times New Roman;
+	background-color: yellow
+
+}
+li{
+	color:brown;
+	font-family:Georgia;
+	font-weight:bold;
+	font-size: 20px;
+	font-style: normal;
+}
+h2{font-family:Verdana;
+	font-weight:Sans-serif;
+	font-size: 22px;
+	color: blue;
+	font-style: normal;
+}
+body{
+	background: #82D5FF;
+}
